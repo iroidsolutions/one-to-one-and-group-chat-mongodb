@@ -1,0 +1,27 @@
+{
+  "rooms": [
+    {
+      "senderId": "64ec4c3614e0ba3a781026da",
+      "receiverId": "64ec6f8119bac571f4aadb6f",
+      "roomId": " GOT4Ri8jkm",
+      "64ec4c3614e0ba3a781026da": "qNiXhOyoftrznIrdAAAB",
+      "chatType": "1"
+    },
+    {
+      "2": "2",
+      "senderId": "64ec6f8119bac571f4aadb6f",
+      "receiverId": "64ec6f8a19bac571f4aadb71",
+      "roomId": " QLWo73ZFKf",
+      "64ec6f8119bac571f4aadb6f": "Lay8uKg4PZfT_foCAAAB",
+      "chatType": "2"
+    },
+    {
+      "2": 2,
+      "senderId": "64ec6f8119bac571f4aadb6f",
+      "receiverId": "1234567891",
+      "roomId": " pplbnv43f3",
+      "64ec6f8119bac571f4aadb6f": "HRSs0SLCFWXNconXAAAD",
+      "chatType": 2
+    }
+  ]
+}
